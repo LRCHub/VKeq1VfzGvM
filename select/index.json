@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "ChewyChewy",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-03-28T03:55:27.514841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ChewyChewy",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/01_ChewyChewy_常闇トワ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ChewyChewy",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_ChewyChewy_常闇トワ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ChewyChewy",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/localdb_01_ChewyChewy_常闇トワ.lrc",
+      "repo_name": "din8MpMohyg"
+    }
+  ]
+}
